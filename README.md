@@ -1,6 +1,6 @@
 # EyeMovement
 
-<img src="./eyes.png">
+<img src="./eyes.png" width=150>
 
 A fun mouse cursor tracking eye animation from Week 8 of the xPro full dev course 
 
